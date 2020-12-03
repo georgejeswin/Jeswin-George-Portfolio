@@ -16,6 +16,7 @@ const useStyles = makeStyles({
     outlineWidth: 0,
     marginBottom: 20,
     paddingBottom: 10,
+    margin: 20,
   },
 });
 
