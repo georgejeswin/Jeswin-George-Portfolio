@@ -1,0 +1,23 @@
+.skillsCard {
+  display: flex;
+  align-items: center;
+  min-width: 280px;
+  background-color: hsl(0, 8%, 95%);
+  margin-bottom: 10px;
+  border-radius: 10px;
+  transition: transform 200ms ease-in;
+}
+.skillsCard:hover {
+  transform: scale(1.05);
+}
+
+.skillsCard__left {
+  padding: 20px;
+  background-color: #fff;
+}
+.skillsCard__left > img {
+  width: 40px;
+}
+.skillsCard__right {
+  padding: 20px;
+}

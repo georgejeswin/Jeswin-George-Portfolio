@@ -1,0 +1,34 @@
+.projectCard__buttons > .MuiButton-root {
+  color: black !important;
+  border: 1px solid black !important;
+  outline-width: 0 !important;
+}
+.projectCard__buttons > .MuiButton-root:hover {
+  background-color: rgb(24, 22, 22);
+  color: white !important;
+}
+.projectCard__buttons {
+  padding: 20px !important;
+}
+.MuiCardMedia-media {
+  width: 300px !important;
+  object-fit: contain !important;
+  margin-top: -5px !important;
+
+  transition: transform 600ms ease-in-out;
+}
+.project__main {
+  outline-width: 0 !important;
+
+  object-fit: contain !important;
+}
+.MuiCardMedia-media:hover {
+  transform: scale(1.05);
+}
+.projectCard__content {
+  padding: 20px !important;
+}
+.projectCard__chip {
+  margin: 3px;
+  margin-bottom: 20px;
+}
