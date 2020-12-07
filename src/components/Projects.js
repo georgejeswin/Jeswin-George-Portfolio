@@ -75,8 +75,8 @@ const Projects = () => {
           label1="React"
           label2="Context API"
           label3="firebase"
-          github=""
-          demo=""
+          github="https://github.com/georgejeswin/WhatsApp-Web-clone.git"
+          demo="https://whatsapp-web-cloneapp.web.app/"
           description="WhatsApp web clone built using React, Google Authentication, Material UI Firebase firestore and hosted in netlify"
         />
 
